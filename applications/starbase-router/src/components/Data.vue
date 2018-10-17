@@ -25,7 +25,7 @@ export default {
     methods: {
         fetchItems() {
             this.items = []
-            let initial_ids = [1, 13, 14]
+            let initial_ids = [4, 8, 14]
             this.type = this.$route.params.type
 
             for (let i in initial_ids) {
