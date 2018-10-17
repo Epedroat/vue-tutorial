@@ -1,6 +1,8 @@
 # starbase
 
-> A Vue.js project
+> A Vue.js project made from Udemy David Katz Vue Course to retrieve informations from swapi.co API
+
+> To use, go to folder applications/starbase-router and follow the steps above
 
 ## Build Setup
 
